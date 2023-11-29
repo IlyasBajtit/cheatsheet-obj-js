@@ -194,7 +194,5 @@ Résumé : https://fr.javascript.info/object-toprimitive#resume
 
 
 
-## La différence entre un object et une class
- 
-- Qu’est-ce qu’une classe ? https://fr.javascript.info/class#qu-est-ce-qu-une-classe
+
 
